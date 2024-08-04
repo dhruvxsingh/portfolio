@@ -121,6 +121,12 @@ a:focus {
     z-index: 9;
 }
 
+.about-img img {
+    width: 10%; /* or any desired width */
+    height: auto; /* maintains the aspect ratio */
+    max-width: 500px; /* optional, for setting a maximum width */
+}
+
 .back-to-top i {
     color: #ffffff;
 }
