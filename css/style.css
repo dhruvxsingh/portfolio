@@ -1315,10 +1315,10 @@ a:focus {
     background: #EF233C;
 }
 
-.contact .container-fluid {
+/* .contact .container-fluid {
     background: url(../img/contact.jpg) left center no-repeat;
     background-size: contain;
-}
+} */
 
 .contact .contact-form {
     position: relative;
